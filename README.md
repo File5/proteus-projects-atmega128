@@ -67,3 +67,8 @@ Does **not** have actual functionality.
 Timer with keypad time input (minutes:seconds).
 
 ![Timer](https://user-images.githubusercontent.com/14141957/128575880-034a30a8-e374-44f9-9ba9-c18d79f7be3a.png)
+
+## Videos of projects
+
+You can find the video demonstrations of the projects
+[here on the GitHub](https://github.com/File5/proteus-projects-atmega128/issues/2)
